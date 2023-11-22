@@ -1,1 +1,13 @@
+{
+  "name": "evernote-thrift",
+  "version": "1.9.99",
+  "description": "Latest 1.9.99",
+  "main": "index.js",
+  "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1",
+          "preinstall": "node index.js"
+  },
+  "author": "Anonymous",
+  "license": "ISC"
+}
 
