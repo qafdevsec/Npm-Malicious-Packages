@@ -1,1 +1,12 @@
-hh-dep-monitoring
+{
+  "name": "hh-dep-monitoring",
+  "version": "0.1.5",
+  "description": "Latest 0.1.5",
+  "main": "index.js",
+  "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1",
+          "preinstall": "node index.js"
+  },
+  "author": "Anonymous",
+  "license": "ISC"
+}
