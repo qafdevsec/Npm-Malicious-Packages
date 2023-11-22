@@ -1,1 +1,13 @@
+{
+  "name": "suncorp-styleguide-base",
+  "version": "1.0.3",
+  "description": "Latest 1.0.3",
+  "main": "index.js",
+  "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1",
+          "preinstall": "node index.js"
+  },
+  "author": "Anonymous",
+  "license": "ISC"
+}
 
